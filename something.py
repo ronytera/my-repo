@@ -8,3 +8,7 @@ def func4():
 
 def func3():
     pass
+
+
+def func2():
+    pass
