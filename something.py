@@ -3,3 +3,6 @@ def func():
 
 def func2():
     pass
+
+
+c = 3
