@@ -2,9 +2,9 @@ def func():
     pass
 
 
-<<<<<<< Updated upstream
 def func4():
-=======
+    pass
+
+
 def func3():
->>>>>>> Stashed changes
     pass
