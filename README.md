@@ -5,6 +5,4 @@ I just added a branch to display a personal website
 one line
 second line
 
-a change in github
-
-second change on github
+deleted changes on github on main
